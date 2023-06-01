@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.a5c40e17.css",
-    "main.js": "/static/js/main.cf2a6a55.js",
-    "static/css/895.c4b9f133.chunk.css": "/static/css/895.c4b9f133.chunk.css",
-    "static/js/895.b98db39c.chunk.js": "/static/js/895.b98db39c.chunk.js",
-    "static/media/blue.jpg": "/static/media/blue.940339f0d3a6fa533369.jpg",
-    "static/media/bg.jpg": "/static/media/bg.29b25be31315dad3ce4e.jpg",
-    "static/media/boba.jpg": "/static/media/boba.5ef3be1eea3fd2547176.jpg",
-    "static/media/red.jpg": "/static/media/red.56a569a8c704a82c8c1c.jpg",
-    "static/media/deathstar.png": "/static/media/deathstar.4c40591e4cb609df293d.png",
-    "static/media/lightsabers.png": "/static/media/lightsabers.aa814a2595199b9279ba.png",
-    "static/media/droid.png": "/static/media/droid.6154af95929359de5e4d.png",
-    "static/media/back.png": "/static/media/back.4e4cc85f20425bee1e94.png",
-    "static/media/not-found.jpg": "/static/media/not-found.1062f5e41ef989b5973a.jpg",
-    "static/media/loader-black.svg": "/static/media/loader-black.52858dd19c66f70b3f9cc7172ba268a6.svg",
-    "static/media/loader-blue.svg": "/static/media/loader-blue.e2338b2af98b88fbb4d0719f5d2af83c.svg",
-    "static/media/loader-white.svg": "/static/media/loader-white.ca8dc33d022c29ec7502882178a68a9c.svg",
-    "index.html": "/index.html",
-    "main.a5c40e17.css.map": "/static/css/main.a5c40e17.css.map",
-    "main.cf2a6a55.js.map": "/static/js/main.cf2a6a55.js.map",
-    "895.c4b9f133.chunk.css.map": "/static/css/895.c4b9f133.chunk.css.map",
-    "895.b98db39c.chunk.js.map": "/static/js/895.b98db39c.chunk.js.map"
+    "main.css": "/starWarsSite/static/css/main.409254aa.css",
+    "main.js": "/starWarsSite/static/js/main.65fa5d22.js",
+    "static/css/895.c4b9f133.chunk.css": "/starWarsSite/static/css/895.c4b9f133.chunk.css",
+    "static/js/895.b98db39c.chunk.js": "/starWarsSite/static/js/895.b98db39c.chunk.js",
+    "static/media/blue.jpg": "/starWarsSite/static/media/blue.940339f0d3a6fa533369.jpg",
+    "static/media/bg.jpg": "/starWarsSite/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/boba.jpg": "/starWarsSite/static/media/boba.5ef3be1eea3fd2547176.jpg",
+    "static/media/red.jpg": "/starWarsSite/static/media/red.56a569a8c704a82c8c1c.jpg",
+    "static/media/deathstar.png": "/starWarsSite/static/media/deathstar.4c40591e4cb609df293d.png",
+    "static/media/lightsabers.png": "/starWarsSite/static/media/lightsabers.aa814a2595199b9279ba.png",
+    "static/media/droid.png": "/starWarsSite/static/media/droid.6154af95929359de5e4d.png",
+    "static/media/back.png": "/starWarsSite/static/media/back.4e4cc85f20425bee1e94.png",
+    "static/media/not-found.jpg": "/starWarsSite/static/media/not-found.1062f5e41ef989b5973a.jpg",
+    "static/media/loader-black.svg": "/starWarsSite/static/media/loader-black.9160a0ec31fc86cf842964d1930f9393.svg",
+    "static/media/loader-blue.svg": "/starWarsSite/static/media/loader-blue.9c22830dd44b6c477ba965f47a8a81e1.svg",
+    "static/media/loader-white.svg": "/starWarsSite/static/media/loader-white.9f35b4d4924b95edbdf68c6f93dd6a39.svg",
+    "index.html": "/starWarsSite/index.html",
+    "main.409254aa.css.map": "/starWarsSite/static/css/main.409254aa.css.map",
+    "main.65fa5d22.js.map": "/starWarsSite/static/js/main.65fa5d22.js.map",
+    "895.c4b9f133.chunk.css.map": "/starWarsSite/static/css/895.c4b9f133.chunk.css.map",
+    "895.b98db39c.chunk.js.map": "/starWarsSite/static/js/895.b98db39c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a5c40e17.css",
-    "static/js/main.cf2a6a55.js"
+    "static/css/main.409254aa.css",
+    "static/js/main.65fa5d22.js"
   ]
 }
