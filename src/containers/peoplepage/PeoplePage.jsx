@@ -10,7 +10,6 @@ import { useQueryParams } from '@hooks/useQueryParams';
 import PeopleNavigation from '@components/PeoplePage/PeopleNavigation'
 
 import styles from './PeoplePage.module.css';
-import { getLinearProgressUtilityClass } from '@mui/material';
 
 const PeoplePage = ({ setErrorApi }) => {
     const [people, setPeople] = useState(null);
