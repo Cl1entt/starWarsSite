@@ -1,3 +1,3 @@
 ⭐Star Wars Site
 
-📎Link - https://cl1entt.github.io/
+📎Link - https://cl1entt.github.io/starWarsSite
