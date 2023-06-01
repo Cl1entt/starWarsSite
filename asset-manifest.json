@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a5c40e17.css",
+    "main.js": "/static/js/main.cf2a6a55.js",
+    "static/css/895.c4b9f133.chunk.css": "/static/css/895.c4b9f133.chunk.css",
+    "static/js/895.b98db39c.chunk.js": "/static/js/895.b98db39c.chunk.js",
+    "static/media/blue.jpg": "/static/media/blue.940339f0d3a6fa533369.jpg",
+    "static/media/bg.jpg": "/static/media/bg.29b25be31315dad3ce4e.jpg",
+    "static/media/boba.jpg": "/static/media/boba.5ef3be1eea3fd2547176.jpg",
+    "static/media/red.jpg": "/static/media/red.56a569a8c704a82c8c1c.jpg",
+    "static/media/deathstar.png": "/static/media/deathstar.4c40591e4cb609df293d.png",
+    "static/media/lightsabers.png": "/static/media/lightsabers.aa814a2595199b9279ba.png",
+    "static/media/droid.png": "/static/media/droid.6154af95929359de5e4d.png",
+    "static/media/back.png": "/static/media/back.4e4cc85f20425bee1e94.png",
+    "static/media/not-found.jpg": "/static/media/not-found.1062f5e41ef989b5973a.jpg",
+    "static/media/loader-black.svg": "/static/media/loader-black.52858dd19c66f70b3f9cc7172ba268a6.svg",
+    "static/media/loader-blue.svg": "/static/media/loader-blue.e2338b2af98b88fbb4d0719f5d2af83c.svg",
+    "static/media/loader-white.svg": "/static/media/loader-white.ca8dc33d022c29ec7502882178a68a9c.svg",
+    "index.html": "/index.html",
+    "main.a5c40e17.css.map": "/static/css/main.a5c40e17.css.map",
+    "main.cf2a6a55.js.map": "/static/js/main.cf2a6a55.js.map",
+    "895.c4b9f133.chunk.css.map": "/static/css/895.c4b9f133.chunk.css.map",
+    "895.b98db39c.chunk.js.map": "/static/js/895.b98db39c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a5c40e17.css",
+    "static/js/main.cf2a6a55.js"
+  ]
+}
